@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a0e5f642505fc7747b3b105ccafa8cb4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Fox Tail
+  fontNames:
+  - The Fox Tail
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 38d574b0b080766488b617d4e7f887b8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
